@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+}
+#h1{
+    display: flex;
+    justify-content: center;
+}
+#h1>button{
+    border-radius: 50px;
+    border-color: rgb(251, 247, 247);
+    box-shadow: 0 0 0 0 ;
+    border: none;
+}
+#h1>p{
+    color: var(--Neutral-50, #121417);
+    font-family: inherit;
+    margin-left: 10px;
+}
+header{
+    display: flex;
+}
+header>img{
+    width: 80px;
+    margin-left: 50px;
+}
+header>div{
+    justify-content: center;
+  
+}
+header>button{
+    justify-content: center;
+}
+
